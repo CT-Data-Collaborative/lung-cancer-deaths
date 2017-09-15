@@ -1,0 +1,1531 @@
+"Town","FIPS","Year","Measure Type","Variable","Value"
+"Andover","0901301080","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Andover","0901301080","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",24.65
+"Andover","0901301080","2006-2010","Number","Lung Cancer Deaths",4
+"Andover","0901301080","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Andover","0901301080","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",31.82
+"Andover","0901301080","2007-2011","Number","Lung Cancer Deaths",5
+"Andover","0901301080","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Andover","0901301080","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",30.28
+"Andover","0901301080","2008-2012","Number","Lung Cancer Deaths",5
+"Ansonia","0900901220","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",57.72
+"Ansonia","0900901220","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",57.4
+"Ansonia","0900901220","2006-2010","Number","Lung Cancer Deaths",55
+"Ansonia","0900901220","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",63.05
+"Ansonia","0900901220","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",64.61
+"Ansonia","0900901220","2007-2011","Number","Lung Cancer Deaths",62
+"Ansonia","0900901220","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",55.05
+"Ansonia","0900901220","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",61.3
+"Ansonia","0900901220","2008-2012","Number","Lung Cancer Deaths",59
+"Ashford","0901501430","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Ashford","0901501430","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",46.3
+"Ashford","0901501430","2006-2010","Number","Lung Cancer Deaths",10
+"Ashford","0901501430","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Ashford","0901501430","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",41.77
+"Ashford","0901501430","2007-2011","Number","Lung Cancer Deaths",9
+"Ashford","0901501430","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Ashford","0901501430","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",37.05
+"Ashford","0901501430","2008-2012","Number","Lung Cancer Deaths",8
+"Avon","0900302060","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",38.26
+"Avon","0900302060","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",52.04
+"Avon","0900302060","2006-2010","Number","Lung Cancer Deaths",46
+"Avon","0900302060","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",35.96
+"Avon","0900302060","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",45.92
+"Avon","0900302060","2007-2011","Number","Lung Cancer Deaths",41
+"Avon","0900302060","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",27.36
+"Avon","0900302060","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",37.57
+"Avon","0900302060","2008-2012","Number","Lung Cancer Deaths",34
+"Barkhamsted","0900502760","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Barkhamsted","0900502760","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",31.74
+"Barkhamsted","0900502760","2006-2010","Number","Lung Cancer Deaths",6
+"Barkhamsted","0900502760","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Barkhamsted","0900502760","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",37.01
+"Barkhamsted","0900502760","2007-2011","Number","Lung Cancer Deaths",7
+"Barkhamsted","0900502760","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Barkhamsted","0900502760","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",42.15
+"Barkhamsted","0900502760","2008-2012","Number","Lung Cancer Deaths",8
+"Beacon Falls","0900903250","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",69.99
+"Beacon Falls","0900903250","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",67.69
+"Beacon Falls","0900903250","2006-2010","Number","Lung Cancer Deaths",20
+"Beacon Falls","0900903250","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",77.37
+"Beacon Falls","0900903250","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",73.71
+"Beacon Falls","0900903250","2007-2011","Number","Lung Cancer Deaths",22
+"Beacon Falls","0900903250","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",72.26
+"Beacon Falls","0900903250","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",72.74
+"Beacon Falls","0900903250","2008-2012","Number","Lung Cancer Deaths",22
+"Berlin","0900304300","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",38.68
+"Berlin","0900304300","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",50.02
+"Berlin","0900304300","2006-2010","Number","Lung Cancer Deaths",49
+"Berlin","0900304300","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",44.25
+"Berlin","0900304300","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",56.87
+"Berlin","0900304300","2007-2011","Number","Lung Cancer Deaths",56
+"Berlin","0900304300","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",39.44
+"Berlin","0900304300","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",60.4
+"Berlin","0900304300","2008-2012","Number","Lung Cancer Deaths",60
+"Bethany","0900904580","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bethany","0900904580","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",29.27
+"Bethany","0900904580","2006-2010","Number","Lung Cancer Deaths",8
+"Bethany","0900904580","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bethany","0900904580","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",32.65
+"Bethany","0900904580","2007-2011","Number","Lung Cancer Deaths",9
+"Bethany","0900904580","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bethany","0900904580","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",39.55
+"Bethany","0900904580","2008-2012","Number","Lung Cancer Deaths",11
+"Bethel","0900104720","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",44.32
+"Bethel","0900104720","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",50.06
+"Bethel","0900104720","2006-2010","Number","Lung Cancer Deaths",46
+"Bethel","0900104720","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",47.65
+"Bethel","0900104720","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",50.83
+"Bethel","0900104720","2007-2011","Number","Lung Cancer Deaths",47
+"Bethel","0900104720","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",44.03
+"Bethel","0900104720","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",48.35
+"Bethel","0900104720","2008-2012","Number","Lung Cancer Deaths",45
+"Bethlehem","0900504930","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bethlehem","0900504930","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",72.32
+"Bethlehem","0900504930","2006-2010","Number","Lung Cancer Deaths",13
+"Bethlehem","0900504930","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bethlehem","0900504930","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",66.74
+"Bethlehem","0900504930","2007-2011","Number","Lung Cancer Deaths",12
+"Bethlehem","0900504930","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bethlehem","0900504930","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",66.59
+"Bethlehem","0900504930","2008-2012","Number","Lung Cancer Deaths",12
+"Bloomfield","0900305910","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",32.43
+"Bloomfield","0900305910","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",57.05
+"Bloomfield","0900305910","2006-2010","Number","Lung Cancer Deaths",58
+"Bloomfield","0900305910","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",32.84
+"Bloomfield","0900305910","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",58.81
+"Bloomfield","0900305910","2007-2011","Number","Lung Cancer Deaths",60
+"Bloomfield","0900305910","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",34.16
+"Bloomfield","0900305910","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",63.45
+"Bloomfield","0900305910","2008-2012","Number","Lung Cancer Deaths",65
+"Bolton","0901306260","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bolton","0901306260","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",43.8
+"Bolton","0901306260","2006-2010","Number","Lung Cancer Deaths",11
+"Bolton","0901306260","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bolton","0901306260","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",39.95
+"Bolton","0901306260","2007-2011","Number","Lung Cancer Deaths",10
+"Bolton","0901306260","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bolton","0901306260","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",44.17
+"Bolton","0901306260","2008-2012","Number","Lung Cancer Deaths",11
+"Bozrah","0901106820","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bozrah","0901106820","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",54.05
+"Bozrah","0901106820","2006-2010","Number","Lung Cancer Deaths",7
+"Bozrah","0901106820","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bozrah","0901106820","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",53.78
+"Bozrah","0901106820","2007-2011","Number","Lung Cancer Deaths",7
+"Bozrah","0901106820","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bozrah","0901106820","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",53.31
+"Bozrah","0901106820","2008-2012","Number","Lung Cancer Deaths",7
+"Branford","0900907310","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",45.6
+"Branford","0900907310","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",70.94
+"Branford","0900907310","2006-2010","Number","Lung Cancer Deaths",100
+"Branford","0900907310","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",43.13
+"Branford","0900907310","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",69.75
+"Branford","0900907310","2007-2011","Number","Lung Cancer Deaths",98
+"Branford","0900907310","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",46.42
+"Branford","0900907310","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",74.94
+"Branford","0900907310","2008-2012","Number","Lung Cancer Deaths",105
+"Bridgeport","0900108070","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",41.84
+"Bridgeport","0900108070","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",36.05
+"Bridgeport","0900108070","2006-2010","Number","Lung Cancer Deaths",257
+"Bridgeport","0900108070","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",42.52
+"Bridgeport","0900108070","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",36.12
+"Bridgeport","0900108070","2007-2011","Number","Lung Cancer Deaths",259
+"Bridgeport","0900108070","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",40.86
+"Bridgeport","0900108070","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",35.44
+"Bridgeport","0900108070","2008-2012","Number","Lung Cancer Deaths",256
+"Bridgewater","0900508210","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bridgewater","0900508210","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",70.26
+"Bridgewater","0900508210","2006-2010","Number","Lung Cancer Deaths",6
+"Bridgewater","0900508210","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bridgewater","0900508210","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",67.04
+"Bridgewater","0900508210","2007-2011","Number","Lung Cancer Deaths",6
+"Bridgewater","0900508210","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Bridgewater","0900508210","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",69.57
+"Bridgewater","0900508210","2008-2012","Number","Lung Cancer Deaths",6
+"Bristol","0900308490","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",56.16
+"Bristol","0900308490","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",66.15
+"Bristol","0900308490","2006-2010","Number","Lung Cancer Deaths",200
+"Bristol","0900308490","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",52.99
+"Bristol","0900308490","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",64.49
+"Bristol","0900308490","2007-2011","Number","Lung Cancer Deaths",195
+"Bristol","0900308490","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",48.54
+"Bristol","0900308490","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",60.18
+"Bristol","0900308490","2008-2012","Number","Lung Cancer Deaths",182
+"Brookfield","0900108980","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",50.66
+"Brookfield","0900108980","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",49.34
+"Brookfield","0900108980","2006-2010","Number","Lung Cancer Deaths",40
+"Brookfield","0900108980","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",58.37
+"Brookfield","0900108980","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",52.63
+"Brookfield","0900108980","2007-2011","Number","Lung Cancer Deaths",43
+"Brookfield","0900108980","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",49.7
+"Brookfield","0900108980","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",54.62
+"Brookfield","0900108980","2008-2012","Number","Lung Cancer Deaths",45
+"Brooklyn","0901509190","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",101.16
+"Brooklyn","0901509190","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",86.49
+"Brooklyn","0901509190","2006-2010","Number","Lung Cancer Deaths",35
+"Brooklyn","0901509190","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",71.44
+"Brooklyn","0901509190","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",76.24
+"Brooklyn","0901509190","2007-2011","Number","Lung Cancer Deaths",31
+"Brooklyn","0901509190","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",50.71
+"Brooklyn","0901509190","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",60.89
+"Brooklyn","0901509190","2008-2012","Number","Lung Cancer Deaths",25
+"Burlington","0900310100","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",50.48
+"Burlington","0900310100","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",35.15
+"Burlington","0900310100","2006-2010","Number","Lung Cancer Deaths",16
+"Burlington","0900310100","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",42.53
+"Burlington","0900310100","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",32.64
+"Burlington","0900310100","2007-2011","Number","Lung Cancer Deaths",15
+"Burlington","0900310100","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Burlington","0900310100","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",30.1
+"Burlington","0900310100","2008-2012","Number","Lung Cancer Deaths",14
+"Canaan","0900510940","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Canaan","0900510940","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",103.36
+"Canaan","0900510940","2006-2010","Number","Lung Cancer Deaths",6
+"Canaan","0900510940","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Canaan","0900510940","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",101.44
+"Canaan","0900510940","2007-2011","Number","Lung Cancer Deaths",6
+"Canaan","0900510940","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Canaan","0900510940","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",113.45
+"Canaan","0900510940","2008-2012","Number","Lung Cancer Deaths",7
+"Canterbury","0901512130","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Canterbury","0901512130","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",35.36
+"Canterbury","0901512130","2006-2010","Number","Lung Cancer Deaths",9
+"Canterbury","0901512130","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Canterbury","0901512130","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",23.49
+"Canterbury","0901512130","2007-2011","Number","Lung Cancer Deaths",6
+"Canterbury","0901512130","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Canterbury","0901512130","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",27.27
+"Canterbury","0901512130","2008-2012","Number","Lung Cancer Deaths",7
+"Canton","0900312270","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",48.54
+"Canton","0900312270","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",47.82
+"Canton","0900312270","2006-2010","Number","Lung Cancer Deaths",24
+"Canton","0900312270","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",44.47
+"Canton","0900312270","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",51.29
+"Canton","0900312270","2007-2011","Number","Lung Cancer Deaths",26
+"Canton","0900312270","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",30.33
+"Canton","0900312270","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",40.8
+"Canton","0900312270","2008-2012","Number","Lung Cancer Deaths",21
+"Chaplin","0901513810","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Chaplin","0901513810","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",84.67
+"Chaplin","0901513810","2006-2010","Number","Lung Cancer Deaths",10
+"Chaplin","0901513810","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Chaplin","0901513810","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",48.37
+"Chaplin","0901513810","2007-2011","Number","Lung Cancer Deaths",6
+"Chaplin","0901513810","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Chaplin","0901513810","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",26.03
+"Chaplin","0901513810","2008-2012","Number","Lung Cancer Deaths",3
+"Cheshire","0900914160","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",33.53
+"Cheshire","0900914160","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",34.27
+"Cheshire","0900914160","2006-2010","Number","Lung Cancer Deaths",50
+"Cheshire","0900914160","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",29.28
+"Cheshire","0900914160","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",31.51
+"Cheshire","0900914160","2007-2011","Number","Lung Cancer Deaths",46
+"Cheshire","0900914160","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",32.4
+"Cheshire","0900914160","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",37.59
+"Cheshire","0900914160","2008-2012","Number","Lung Cancer Deaths",55
+"Chester","0900714300","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Chester","0900714300","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",65.39
+"Chester","0900714300","2006-2010","Number","Lung Cancer Deaths",13
+"Chester","0900714300","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Chester","0900714300","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",65.26
+"Chester","0900714300","2007-2011","Number","Lung Cancer Deaths",13
+"Chester","0900714300","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Chester","0900714300","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",65.13
+"Chester","0900714300","2008-2012","Number","Lung Cancer Deaths",13
+"Clinton","0900715350","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",60.16
+"Clinton","0900715350","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",63.08
+"Clinton","0900715350","2006-2010","Number","Lung Cancer Deaths",42
+"Clinton","0900715350","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",57.52
+"Clinton","0900715350","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",64.71
+"Clinton","0900715350","2007-2011","Number","Lung Cancer Deaths",43
+"Clinton","0900715350","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",53.81
+"Clinton","0900715350","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",63.37
+"Clinton","0900715350","2008-2012","Number","Lung Cancer Deaths",42
+"Colchester","0901115910","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",51.57
+"Colchester","0901115910","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",36.6
+"Colchester","0901115910","2006-2010","Number","Lung Cancer Deaths",29
+"Colchester","0901115910","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",39.28
+"Colchester","0901115910","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",33.9
+"Colchester","0901115910","2007-2011","Number","Lung Cancer Deaths",27
+"Colchester","0901115910","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",36.75
+"Colchester","0901115910","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",34.86
+"Colchester","0901115910","2008-2012","Number","Lung Cancer Deaths",28
+"Colebrook","0900516050","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Colebrook","0900516050","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",44.09
+"Colebrook","0900516050","2006-2010","Number","Lung Cancer Deaths",3
+"Colebrook","0900516050","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Colebrook","0900516050","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",43.01
+"Colebrook","0900516050","2007-2011","Number","Lung Cancer Deaths",3
+"Colebrook","0900516050","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Colebrook","0900516050","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",26.95
+"Colebrook","0900516050","2008-2012","Number","Lung Cancer Deaths",2
+"Columbia","0901316400","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Columbia","0901316400","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",29.49
+"Columbia","0901316400","2006-2010","Number","Lung Cancer Deaths",8
+"Columbia","0901316400","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Columbia","0901316400","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",25.69
+"Columbia","0901316400","2007-2011","Number","Lung Cancer Deaths",7
+"Columbia","0901316400","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Columbia","0901316400","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",29.15
+"Columbia","0901316400","2008-2012","Number","Lung Cancer Deaths",8
+"Connecticut","09","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",43.72
+"Connecticut","09","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",50.27
+"Connecticut","09","2006-2010","Number","Lung Cancer Deaths",8912
+"Connecticut","09","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",42.61
+"Connecticut","09","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",49.56
+"Connecticut","09","2007-2011","Number","Lung Cancer Deaths",8818
+"Connecticut","09","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",41.67
+"Connecticut","09","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",48.89
+"Connecticut","09","2008-2012","Number","Lung Cancer Deaths",8686
+"Cornwall","0900517240","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Cornwall","0900517240","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",12.59
+"Cornwall","0900517240","2006-2010","Number","Lung Cancer Deaths",1
+"Cornwall","0900517240","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Cornwall","0900517240","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",13.61
+"Cornwall","0900517240","2007-2011","Number","Lung Cancer Deaths",1
+"Cornwall","0900517240","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Cornwall","0900517240","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",14.09
+"Cornwall","0900517240","2008-2012","Number","Lung Cancer Deaths",1
+"Coventry","0901317800","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",49.39
+"Coventry","0901317800","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",45.33
+"Coventry","0901317800","2006-2010","Number","Lung Cancer Deaths",28
+"Coventry","0901317800","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",52.46
+"Coventry","0901317800","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",48.38
+"Coventry","0901317800","2007-2011","Number","Lung Cancer Deaths",30
+"Coventry","0901317800","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",50.54
+"Coventry","0901317800","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",48.24
+"Coventry","0901317800","2008-2012","Number","Lung Cancer Deaths",30
+"Cromwell","0900718080","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",38.12
+"Cromwell","0900718080","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",51.84
+"Cromwell","0900718080","2006-2010","Number","Lung Cancer Deaths",36
+"Cromwell","0900718080","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",31.59
+"Cromwell","0900718080","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",44.44
+"Cromwell","0900718080","2007-2011","Number","Lung Cancer Deaths",31
+"Cromwell","0900718080","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",35.01
+"Cromwell","0900718080","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",48.57
+"Cromwell","0900718080","2008-2012","Number","Lung Cancer Deaths",34
+"Danbury","0900118500","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",41.19
+"Danbury","0900118500","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",39.81
+"Danbury","0900118500","2006-2010","Number","Lung Cancer Deaths",158
+"Danbury","0900118500","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",42.83
+"Danbury","0900118500","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",41.7
+"Danbury","0900118500","2007-2011","Number","Lung Cancer Deaths",167
+"Danbury","0900118500","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",40.87
+"Danbury","0900118500","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",39
+"Danbury","0900118500","2008-2012","Number","Lung Cancer Deaths",158
+"Darien","0900118850","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",30.99
+"Darien","0900118850","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",29.39
+"Darien","0900118850","2006-2010","Number","Lung Cancer Deaths",30
+"Darien","0900118850","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",29.6
+"Darien","0900118850","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",29.15
+"Darien","0900118850","2007-2011","Number","Lung Cancer Deaths",30
+"Darien","0900118850","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",27.09
+"Darien","0900118850","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",25.04
+"Darien","0900118850","2008-2012","Number","Lung Cancer Deaths",26
+"Deep River","0900719130","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Deep River","0900719130","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",25.84
+"Deep River","0900719130","2006-2010","Number","Lung Cancer Deaths",6
+"Deep River","0900719130","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Deep River","0900719130","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",38.69
+"Deep River","0900719130","2007-2011","Number","Lung Cancer Deaths",9
+"Deep River","0900719130","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Deep River","0900719130","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",34.56
+"Deep River","0900719130","2008-2012","Number","Lung Cancer Deaths",8
+"Derby","0900919550","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",52.39
+"Derby","0900919550","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",63.93
+"Derby","0900919550","2006-2010","Number","Lung Cancer Deaths",41
+"Derby","0900919550","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",58.44
+"Derby","0900919550","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",65.4
+"Derby","0900919550","2007-2011","Number","Lung Cancer Deaths",42
+"Derby","0900919550","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",53.34
+"Derby","0900919550","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",68.21
+"Derby","0900919550","2008-2012","Number","Lung Cancer Deaths",44
+"Durham","0900720810","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Durham","0900720810","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",35.65
+"Durham","0900720810","2006-2010","Number","Lung Cancer Deaths",13
+"Durham","0900720810","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Durham","0900720810","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",35.41
+"Durham","0900720810","2007-2011","Number","Lung Cancer Deaths",13
+"Durham","0900720810","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Durham","0900720810","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",37.91
+"Durham","0900720810","2008-2012","Number","Lung Cancer Deaths",14
+"Eastford","0901521860","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Eastford","0901521860","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",24.6
+"Eastford","0901521860","2006-2010","Number","Lung Cancer Deaths",2
+"Eastford","0901521860","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Eastford","0901521860","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",24.97
+"Eastford","0901521860","2007-2011","Number","Lung Cancer Deaths",2
+"Eastford","0901521860","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Eastford","0901521860","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",22.86
+"Eastford","0901521860","2008-2012","Number","Lung Cancer Deaths",2
+"East Granby","0900322070","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",47.95
+"East Granby","0900322070","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",62
+"East Granby","0900322070","2006-2010","Number","Lung Cancer Deaths",16
+"East Granby","0900322070","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",53.71
+"East Granby","0900322070","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",59.35
+"East Granby","0900322070","2007-2011","Number","Lung Cancer Deaths",15
+"East Granby","0900322070","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"East Granby","0900322070","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",46.62
+"East Granby","0900322070","2008-2012","Number","Lung Cancer Deaths",12
+"East Haddam","0900722280","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",33
+"East Haddam","0900722280","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",35.41
+"East Haddam","0900722280","2006-2010","Number","Lung Cancer Deaths",16
+"East Haddam","0900722280","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",31.51
+"East Haddam","0900722280","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",33.08
+"East Haddam","0900722280","2007-2011","Number","Lung Cancer Deaths",15
+"East Haddam","0900722280","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"East Haddam","0900722280","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",26.31
+"East Haddam","0900722280","2008-2012","Number","Lung Cancer Deaths",12
+"East Hampton","0900722490","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",71.02
+"East Hampton","0900722490","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",54.3
+"East Hampton","0900722490","2006-2010","Number","Lung Cancer Deaths",35
+"East Hampton","0900722490","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",68.15
+"East Hampton","0900722490","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",60.34
+"East Hampton","0900722490","2007-2011","Number","Lung Cancer Deaths",39
+"East Hampton","0900722490","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",55.36
+"East Hampton","0900722490","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",58.67
+"East Hampton","0900722490","2008-2012","Number","Lung Cancer Deaths",38
+"East Hartford","0900322630","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",57.94
+"East Hartford","0900322630","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",64.74
+"East Hartford","0900322630","2006-2010","Number","Lung Cancer Deaths",165
+"East Hartford","0900322630","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",50.77
+"East Hartford","0900322630","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",58.33
+"East Hartford","0900322630","2007-2011","Number","Lung Cancer Deaths",149
+"East Hartford","0900322630","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",47.61
+"East Hartford","0900322630","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",53.84
+"East Hartford","0900322630","2008-2012","Number","Lung Cancer Deaths",138
+"East Haven","0900922910","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",59.76
+"East Haven","0900922910","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",83.24
+"East Haven","0900922910","2006-2010","Number","Lung Cancer Deaths",121
+"East Haven","0900922910","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",59.72
+"East Haven","0900922910","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",79.59
+"East Haven","0900922910","2007-2011","Number","Lung Cancer Deaths",116
+"East Haven","0900922910","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",51.92
+"East Haven","0900922910","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",71.09
+"East Haven","0900922910","2008-2012","Number","Lung Cancer Deaths",104
+"East Lyme","0901123400","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",44.04
+"East Lyme","0901123400","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",57.69
+"East Lyme","0901123400","2006-2010","Number","Lung Cancer Deaths",55
+"East Lyme","0901123400","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",40.96
+"East Lyme","0901123400","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",54.51
+"East Lyme","0901123400","2007-2011","Number","Lung Cancer Deaths",52
+"East Lyme","0901123400","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",39.28
+"East Lyme","0901123400","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",54.29
+"East Lyme","0901123400","2008-2012","Number","Lung Cancer Deaths",52
+"Easton","0900123890","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Easton","0900123890","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",37.82
+"Easton","0900123890","2006-2010","Number","Lung Cancer Deaths",14
+"Easton","0900123890","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Easton","0900123890","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",34.89
+"Easton","0900123890","2007-2011","Number","Lung Cancer Deaths",13
+"Easton","0900123890","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Easton","0900123890","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",37.32
+"Easton","0900123890","2008-2012","Number","Lung Cancer Deaths",14
+"East Windsor","0900324800","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",71.67
+"East Windsor","0900324800","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",84.24
+"East Windsor","0900324800","2006-2010","Number","Lung Cancer Deaths",46
+"East Windsor","0900324800","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",80.66
+"East Windsor","0900324800","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",92.53
+"East Windsor","0900324800","2007-2011","Number","Lung Cancer Deaths",51
+"East Windsor","0900324800","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",64.86
+"East Windsor","0900324800","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",82.42
+"East Windsor","0900324800","2008-2012","Number","Lung Cancer Deaths",46
+"Ellington","0901325360","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",57.37
+"Ellington","0901325360","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",52.53
+"Ellington","0901325360","2006-2010","Number","Lung Cancer Deaths",40
+"Ellington","0901325360","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",56.01
+"Ellington","0901325360","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",51.97
+"Ellington","0901325360","2007-2011","Number","Lung Cancer Deaths",40
+"Ellington","0901325360","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",46.53
+"Ellington","0901325360","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",47.41
+"Ellington","0901325360","2008-2012","Number","Lung Cancer Deaths",37
+"Enfield","0900325990","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",49.11
+"Enfield","0900325990","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",59.83
+"Enfield","0900325990","2006-2010","Number","Lung Cancer Deaths",134
+"Enfield","0900325990","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",51.25
+"Enfield","0900325990","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",61.68
+"Enfield","0900325990","2007-2011","Number","Lung Cancer Deaths",138
+"Enfield","0900325990","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",55.6
+"Enfield","0900325990","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",67.62
+"Enfield","0900325990","2008-2012","Number","Lung Cancer Deaths",151
+"Essex","0900726270","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",52.18
+"Essex","0900726270","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",77.77
+"Essex","0900726270","2006-2010","Number","Lung Cancer Deaths",26
+"Essex","0900726270","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",65.23
+"Essex","0900726270","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",98.55
+"Essex","0900726270","2007-2011","Number","Lung Cancer Deaths",33
+"Essex","0900726270","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",58.27
+"Essex","0900726270","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",101.77
+"Essex","0900726270","2008-2012","Number","Lung Cancer Deaths",34
+"Fairfield","0900126620","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",38.91
+"Fairfield","0900126620","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",46.66
+"Fairfield","0900126620","2006-2010","Number","Lung Cancer Deaths",137
+"Fairfield","0900126620","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",34.5
+"Fairfield","0900126620","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",42.99
+"Fairfield","0900126620","2007-2011","Number","Lung Cancer Deaths",127
+"Fairfield","0900126620","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",33.6
+"Fairfield","0900126620","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",41.68
+"Fairfield","0900126620","2008-2012","Number","Lung Cancer Deaths",124
+"Farmington","0900327600","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",33.18
+"Farmington","0900327600","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",45.48
+"Farmington","0900327600","2006-2010","Number","Lung Cancer Deaths",57
+"Farmington","0900327600","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",32.42
+"Farmington","0900327600","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",47.65
+"Farmington","0900327600","2007-2011","Number","Lung Cancer Deaths",60
+"Farmington","0900327600","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",29.88
+"Farmington","0900327600","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",44.98
+"Farmington","0900327600","2008-2012","Number","Lung Cancer Deaths",57
+"Franklin","0901129910","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Franklin","0901129910","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",41.58
+"Franklin","0901129910","2006-2010","Number","Lung Cancer Deaths",4
+"Franklin","0901129910","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Franklin","0901129910","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",30.64
+"Franklin","0901129910","2007-2011","Number","Lung Cancer Deaths",3
+"Franklin","0901129910","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Franklin","0901129910","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",52.03
+"Franklin","0901129910","2008-2012","Number","Lung Cancer Deaths",5
+"Glastonbury","0900331240","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",37.26
+"Glastonbury","0900331240","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",40.02
+"Glastonbury","0900331240","2006-2010","Number","Lung Cancer Deaths",68
+"Glastonbury","0900331240","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",32.75
+"Glastonbury","0900331240","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",36.29
+"Glastonbury","0900331240","2007-2011","Number","Lung Cancer Deaths",62
+"Glastonbury","0900331240","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",28.4
+"Glastonbury","0900331240","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",33.11
+"Glastonbury","0900331240","2008-2012","Number","Lung Cancer Deaths",57
+"Goshen","0900532290","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Goshen","0900532290","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",67.8
+"Goshen","0900532290","2006-2010","Number","Lung Cancer Deaths",10
+"Goshen","0900532290","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Goshen","0900532290","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",54.11
+"Goshen","0900532290","2007-2011","Number","Lung Cancer Deaths",8
+"Goshen","0900532290","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Goshen","0900532290","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",53.82
+"Goshen","0900532290","2008-2012","Number","Lung Cancer Deaths",8
+"Granby","0900332640","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",42.92
+"Granby","0900332640","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",44.95
+"Granby","0900332640","2006-2010","Number","Lung Cancer Deaths",25
+"Granby","0900332640","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",36.37
+"Granby","0900332640","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",42.89
+"Granby","0900332640","2007-2011","Number","Lung Cancer Deaths",24
+"Granby","0900332640","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",37
+"Granby","0900332640","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",44.31
+"Granby","0900332640","2008-2012","Number","Lung Cancer Deaths",25
+"Greenwich","0900133620","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",27.58
+"Greenwich","0900133620","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",36.51
+"Greenwich","0900133620","2006-2010","Number","Lung Cancer Deaths",111
+"Greenwich","0900133620","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",28.1
+"Greenwich","0900133620","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",37.04
+"Greenwich","0900133620","2007-2011","Number","Lung Cancer Deaths",113
+"Greenwich","0900133620","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",26.12
+"Greenwich","0900133620","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",35.9
+"Greenwich","0900133620","2008-2012","Number","Lung Cancer Deaths",110
+"Griswold","0901133900","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",61.9
+"Griswold","0901133900","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",71.34
+"Griswold","0901133900","2006-2010","Number","Lung Cancer Deaths",42
+"Griswold","0901133900","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",57.23
+"Griswold","0901133900","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",64.21
+"Griswold","0901133900","2007-2011","Number","Lung Cancer Deaths",38
+"Griswold","0901133900","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",64.91
+"Griswold","0901133900","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",61.92
+"Griswold","0901133900","2008-2012","Number","Lung Cancer Deaths",37
+"Groton","0901134250","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",44.73
+"Groton","0901134250","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",45.21
+"Groton","0901134250","2006-2010","Number","Lung Cancer Deaths",91
+"Groton","0901134250","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",39.58
+"Groton","0901134250","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",40.31
+"Groton","0901134250","2007-2011","Number","Lung Cancer Deaths",81
+"Groton","0901134250","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",32.41
+"Groton","0901134250","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",35.4
+"Groton","0901134250","2008-2012","Number","Lung Cancer Deaths",71
+"Guilford","0900934950","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",38.3
+"Guilford","0900934950","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",50.4
+"Guilford","0900934950","2006-2010","Number","Lung Cancer Deaths",56
+"Guilford","0900934950","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",34.59
+"Guilford","0900934950","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",48.49
+"Guilford","0900934950","2007-2011","Number","Lung Cancer Deaths",54
+"Guilford","0900934950","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",31.63
+"Guilford","0900934950","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",44.69
+"Guilford","0900934950","2008-2012","Number","Lung Cancer Deaths",50
+"Haddam","0900735230","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",62.9
+"Haddam","0900735230","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",56.2
+"Haddam","0900735230","2006-2010","Number","Lung Cancer Deaths",23
+"Haddam","0900735230","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",56.18
+"Haddam","0900735230","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",50.8
+"Haddam","0900735230","2007-2011","Number","Lung Cancer Deaths",21
+"Haddam","0900735230","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",54.32
+"Haddam","0900735230","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",57.53
+"Haddam","0900735230","2008-2012","Number","Lung Cancer Deaths",24
+"Hamden","0900935650","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",41.23
+"Hamden","0900935650","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",53.07
+"Hamden","0900935650","2006-2010","Number","Lung Cancer Deaths",160
+"Hamden","0900935650","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",39.91
+"Hamden","0900935650","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",50.21
+"Hamden","0900935650","2007-2011","Number","Lung Cancer Deaths",152
+"Hamden","0900935650","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",34.94
+"Hamden","0900935650","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",43.31
+"Hamden","0900935650","2008-2012","Number","Lung Cancer Deaths",132
+"Hampton","0901536000","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Hampton","0901536000","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",42.92
+"Hampton","0901536000","2006-2010","Number","Lung Cancer Deaths",4
+"Hampton","0901536000","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Hampton","0901536000","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",43.31
+"Hampton","0901536000","2007-2011","Number","Lung Cancer Deaths",4
+"Hampton","0901536000","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Hampton","0901536000","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",42.92
+"Hampton","0901536000","2008-2012","Number","Lung Cancer Deaths",4
+"Hartford","0900337070","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",40.43
+"Hartford","0900337070","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",30.94
+"Hartford","0900337070","2006-2010","Number","Lung Cancer Deaths",193
+"Hartford","0900337070","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",39.44
+"Hartford","0900337070","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",29.96
+"Hartford","0900337070","2007-2011","Number","Lung Cancer Deaths",187
+"Hartford","0900337070","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",40.31
+"Hartford","0900337070","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",29.81
+"Hartford","0900337070","2008-2012","Number","Lung Cancer Deaths",186
+"Hartland","0900337140","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Hartland","0900337140","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",19.91
+"Hartland","0900337140","2006-2010","Number","Lung Cancer Deaths",2
+"Hartland","0900337140","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Hartland","0900337140","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",9.27
+"Hartland","0900337140","2007-2011","Number","Lung Cancer Deaths",1
+"Hartland","0900337140","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Hartland","0900337140","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",9.46
+"Hartland","0900337140","2008-2012","Number","Lung Cancer Deaths",1
+"Harwinton","0900537280","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Harwinton","0900537280","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",32.04
+"Harwinton","0900537280","2006-2010","Number","Lung Cancer Deaths",9
+"Harwinton","0900537280","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Harwinton","0900537280","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",39.16
+"Harwinton","0900537280","2007-2011","Number","Lung Cancer Deaths",11
+"Harwinton","0900537280","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Harwinton","0900537280","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",39.02
+"Harwinton","0900537280","2008-2012","Number","Lung Cancer Deaths",11
+"Hebron","0901337910","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",86.73
+"Hebron","0901337910","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",37.61
+"Hebron","0901337910","2006-2010","Number","Lung Cancer Deaths",18
+"Hebron","0901337910","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",131.17
+"Hebron","0901337910","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",41.58
+"Hebron","0901337910","2007-2011","Number","Lung Cancer Deaths",20
+"Hebron","0901337910","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",48.7
+"Hebron","0901337910","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",33.02
+"Hebron","0901337910","2008-2012","Number","Lung Cancer Deaths",16
+"Kent","0900540290","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Kent","0900540290","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",53.67
+"Kent","0900540290","2006-2010","Number","Lung Cancer Deaths",8
+"Kent","0900540290","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Kent","0900540290","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",46.95
+"Kent","0900540290","2007-2011","Number","Lung Cancer Deaths",7
+"Kent","0900540290","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Kent","0900540290","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",53.75
+"Kent","0900540290","2008-2012","Number","Lung Cancer Deaths",8
+"Killingly","0901540500","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",65.56
+"Killingly","0901540500","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",63.41
+"Killingly","0901540500","2006-2010","Number","Lung Cancer Deaths",55
+"Killingly","0901540500","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",63.91
+"Killingly","0901540500","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",67.98
+"Killingly","0901540500","2007-2011","Number","Lung Cancer Deaths",59
+"Killingly","0901540500","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",58.11
+"Killingly","0901540500","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",66.77
+"Killingly","0901540500","2008-2012","Number","Lung Cancer Deaths",58
+"Killingworth","0900740710","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",57.81
+"Killingworth","0900740710","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",64.74
+"Killingworth","0900740710","2006-2010","Number","Lung Cancer Deaths",21
+"Killingworth","0900740710","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",52.65
+"Killingworth","0900740710","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",61.55
+"Killingworth","0900740710","2007-2011","Number","Lung Cancer Deaths",20
+"Killingworth","0900740710","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",47.9
+"Killingworth","0900740710","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",55.19
+"Killingworth","0900740710","2008-2012","Number","Lung Cancer Deaths",18
+"Lebanon","0901142390","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Lebanon","0901142390","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",35.85
+"Lebanon","0901142390","2006-2010","Number","Lung Cancer Deaths",13
+"Lebanon","0901142390","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Lebanon","0901142390","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",35.77
+"Lebanon","0901142390","2007-2011","Number","Lung Cancer Deaths",13
+"Lebanon","0901142390","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",41.58
+"Lebanon","0901142390","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",43.8
+"Lebanon","0901142390","2008-2012","Number","Lung Cancer Deaths",16
+"Ledyard","0901142600","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",48.65
+"Ledyard","0901142600","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",47.93
+"Ledyard","0901142600","2006-2010","Number","Lung Cancer Deaths",36
+"Ledyard","0901142600","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",40.75
+"Ledyard","0901142600","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",43.95
+"Ledyard","0901142600","2007-2011","Number","Lung Cancer Deaths",33
+"Ledyard","0901142600","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",35.08
+"Ledyard","0901142600","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",37.21
+"Ledyard","0901142600","2008-2012","Number","Lung Cancer Deaths",28
+"Lisbon","0901143230","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Lisbon","0901143230","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",65.03
+"Lisbon","0901143230","2006-2010","Number","Lung Cancer Deaths",14
+"Lisbon","0901143230","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",86.88
+"Lisbon","0901143230","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",78.67
+"Lisbon","0901143230","2007-2011","Number","Lung Cancer Deaths",17
+"Lisbon","0901143230","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Lisbon","0901143230","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",59.94
+"Lisbon","0901143230","2008-2012","Number","Lung Cancer Deaths",13
+"Litchfield","0900543370","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",35.04
+"Litchfield","0900543370","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",51.69
+"Litchfield","0900543370","2006-2010","Number","Lung Cancer Deaths",22
+"Litchfield","0900543370","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",39.53
+"Litchfield","0900543370","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",56.58
+"Litchfield","0900543370","2007-2011","Number","Lung Cancer Deaths",24
+"Litchfield","0900543370","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",28.02
+"Litchfield","0900543370","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",47.3
+"Litchfield","0900543370","2008-2012","Number","Lung Cancer Deaths",20
+"Lyme","0901144210","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Lyme","0901144210","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",60.27
+"Lyme","0901144210","2006-2010","Number","Lung Cancer Deaths",7
+"Lyme","0901144210","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Lyme","0901144210","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",51.57
+"Lyme","0901144210","2007-2011","Number","Lung Cancer Deaths",6
+"Lyme","0901144210","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Lyme","0901144210","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",58.21
+"Lyme","0901144210","2008-2012","Number","Lung Cancer Deaths",7
+"Madison","0900944560","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",38.55
+"Madison","0900944560","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",53.76
+"Madison","0900944560","2006-2010","Number","Lung Cancer Deaths",49
+"Madison","0900944560","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",28.73
+"Madison","0900944560","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",44.95
+"Madison","0900944560","2007-2011","Number","Lung Cancer Deaths",41
+"Madison","0900944560","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",28.42
+"Madison","0900944560","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",43.79
+"Madison","0900944560","2008-2012","Number","Lung Cancer Deaths",40
+"Manchester","0900344700","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",50.27
+"Manchester","0900344700","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",52.73
+"Manchester","0900344700","2006-2010","Number","Lung Cancer Deaths",152
+"Manchester","0900344700","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",48.32
+"Manchester","0900344700","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",51.47
+"Manchester","0900344700","2007-2011","Number","Lung Cancer Deaths",149
+"Manchester","0900344700","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",46.95
+"Manchester","0900344700","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",51.16
+"Manchester","0900344700","2008-2012","Number","Lung Cancer Deaths",149
+"Mansfield","0901344910","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",43.68
+"Mansfield","0901344910","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",23.98
+"Mansfield","0901344910","2006-2010","Number","Lung Cancer Deaths",31
+"Mansfield","0901344910","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",28
+"Mansfield","0901344910","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",17.6
+"Mansfield","0901344910","2007-2011","Number","Lung Cancer Deaths",23
+"Mansfield","0901344910","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",34.75
+"Mansfield","0901344910","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",21.1
+"Mansfield","0901344910","2008-2012","Number","Lung Cancer Deaths",28
+"Marlborough","0900345820","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Marlborough","0900345820","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",44.54
+"Marlborough","0900345820","2006-2010","Number","Lung Cancer Deaths",14
+"Marlborough","0900345820","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",47.43
+"Marlborough","0900345820","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",47.36
+"Marlborough","0900345820","2007-2011","Number","Lung Cancer Deaths",15
+"Marlborough","0900345820","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",50.1
+"Marlborough","0900345820","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",46.83
+"Marlborough","0900345820","2008-2012","Number","Lung Cancer Deaths",15
+"Meriden","0900946520","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",48.72
+"Meriden","0900946520","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",53.9
+"Meriden","0900946520","2006-2010","Number","Lung Cancer Deaths",163
+"Meriden","0900946520","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",46.64
+"Meriden","0900946520","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",51.15
+"Meriden","0900946520","2007-2011","Number","Lung Cancer Deaths",155
+"Meriden","0900946520","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",47.75
+"Meriden","0900946520","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",52.25
+"Meriden","0900946520","2008-2012","Number","Lung Cancer Deaths",159
+"Middlebury","0900946940","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",37.93
+"Middlebury","0900946940","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",43.3
+"Middlebury","0900946940","2006-2010","Number","Lung Cancer Deaths",16
+"Middlebury","0900946940","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",40.01
+"Middlebury","0900946940","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",45.58
+"Middlebury","0900946940","2007-2011","Number","Lung Cancer Deaths",17
+"Middlebury","0900946940","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",38.36
+"Middlebury","0900946940","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",52.81
+"Middlebury","0900946940","2008-2012","Number","Lung Cancer Deaths",20
+"Middlefield","0900747080","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Middlefield","0900747080","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",54.38
+"Middlefield","0900747080","2006-2010","Number","Lung Cancer Deaths",12
+"Middlefield","0900747080","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Middlefield","0900747080","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",49.8
+"Middlefield","0900747080","2007-2011","Number","Lung Cancer Deaths",11
+"Middlefield","0900747080","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Middlefield","0900747080","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",54.26
+"Middlefield","0900747080","2008-2012","Number","Lung Cancer Deaths",12
+"Middletown","0900747360","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",55.91
+"Middletown","0900747360","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",57.02
+"Middletown","0900747360","2006-2010","Number","Lung Cancer Deaths",135
+"Middletown","0900747360","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",56.91
+"Middletown","0900747360","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",58.51
+"Middletown","0900747360","2007-2011","Number","Lung Cancer Deaths",139
+"Middletown","0900747360","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",50.38
+"Middletown","0900747360","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",55.42
+"Middletown","0900747360","2008-2012","Number","Lung Cancer Deaths",132
+"Milford","0900947535","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",56.89
+"Milford","0900947535","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",70.52
+"Milford","0900947535","2006-2010","Number","Lung Cancer Deaths",186
+"Milford","0900947535","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",55.5
+"Milford","0900947535","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",70.92
+"Milford","0900947535","2007-2011","Number","Lung Cancer Deaths",187
+"Milford","0900947535","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",51.89
+"Milford","0900947535","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",71.27
+"Milford","0900947535","2008-2012","Number","Lung Cancer Deaths",188
+"Monroe","0900148620","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",37.45
+"Monroe","0900148620","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",38.31
+"Monroe","0900148620","2006-2010","Number","Lung Cancer Deaths",37
+"Monroe","0900148620","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",39.2
+"Monroe","0900148620","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",36.09
+"Monroe","0900148620","2007-2011","Number","Lung Cancer Deaths",35
+"Monroe","0900148620","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",39.07
+"Monroe","0900148620","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",41
+"Monroe","0900148620","2008-2012","Number","Lung Cancer Deaths",40
+"Montville","0901148900","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",44.4
+"Montville","0901148900","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",46.23
+"Montville","0901148900","2006-2010","Number","Lung Cancer Deaths",45
+"Montville","0901148900","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",40.8
+"Montville","0901148900","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",45.12
+"Montville","0901148900","2007-2011","Number","Lung Cancer Deaths",44
+"Montville","0901148900","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",43.25
+"Montville","0901148900","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",51.1
+"Montville","0901148900","2008-2012","Number","Lung Cancer Deaths",50
+"Morris","0900549460","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Morris","0900549460","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",40.63
+"Morris","0900549460","2006-2010","Number","Lung Cancer Deaths",5
+"Morris","0900549460","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Morris","0900549460","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",41.48
+"Morris","0900549460","2007-2011","Number","Lung Cancer Deaths",5
+"Morris","0900549460","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Morris","0900549460","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",16.76
+"Morris","0900549460","2008-2012","Number","Lung Cancer Deaths",2
+"Naugatuck","0900949950","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",66.43
+"Naugatuck","0900949950","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",59.22
+"Naugatuck","0900949950","2006-2010","Number","Lung Cancer Deaths",94
+"Naugatuck","0900949950","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",58.58
+"Naugatuck","0900949950","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",56.01
+"Naugatuck","0900949950","2007-2011","Number","Lung Cancer Deaths",89
+"Naugatuck","0900949950","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",56
+"Naugatuck","0900949950","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",55.24
+"Naugatuck","0900949950","2008-2012","Number","Lung Cancer Deaths",88
+"New Britain","0900350440","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",50.03
+"New Britain","0900350440","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",56.2
+"New Britain","0900350440","2006-2010","Number","Lung Cancer Deaths",205
+"New Britain","0900350440","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",52.8
+"New Britain","0900350440","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",56.4
+"New Britain","0900350440","2007-2011","Number","Lung Cancer Deaths",206
+"New Britain","0900350440","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",50.99
+"New Britain","0900350440","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",51.08
+"New Britain","0900350440","2008-2012","Number","Lung Cancer Deaths",187
+"New Canaan","0900150580","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",22.16
+"New Canaan","0900150580","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",22.49
+"New Canaan","0900150580","2006-2010","Number","Lung Cancer Deaths",22
+"New Canaan","0900150580","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",22.29
+"New Canaan","0900150580","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",25.46
+"New Canaan","0900150580","2007-2011","Number","Lung Cancer Deaths",25
+"New Canaan","0900150580","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",21.04
+"New Canaan","0900150580","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",25.29
+"New Canaan","0900150580","2008-2012","Number","Lung Cancer Deaths",25
+"New Fairfield","0900150860","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",35.44
+"New Fairfield","0900150860","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",34.78
+"New Fairfield","0900150860","2006-2010","Number","Lung Cancer Deaths",24
+"New Fairfield","0900150860","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",37.37
+"New Fairfield","0900150860","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",40.44
+"New Fairfield","0900150860","2007-2011","Number","Lung Cancer Deaths",28
+"New Fairfield","0900150860","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",50.13
+"New Fairfield","0900150860","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",51.78
+"New Fairfield","0900150860","2008-2012","Number","Lung Cancer Deaths",36
+"New Hartford","0900551350","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",56.41
+"New Hartford","0900551350","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",49.5
+"New Hartford","0900551350","2006-2010","Number","Lung Cancer Deaths",17
+"New Hartford","0900551350","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",45.8
+"New Hartford","0900551350","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",49.27
+"New Hartford","0900551350","2007-2011","Number","Lung Cancer Deaths",17
+"New Hartford","0900551350","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",44.79
+"New Hartford","0900551350","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",51.7
+"New Hartford","0900551350","2008-2012","Number","Lung Cancer Deaths",18
+"New Haven","0900952070","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",48.46
+"New Haven","0900952070","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",34.91
+"New Haven","0900952070","2006-2010","Number","Lung Cancer Deaths",225
+"New Haven","0900952070","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",46.17
+"New Haven","0900952070","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",35.45
+"New Haven","0900952070","2007-2011","Number","Lung Cancer Deaths",229
+"New Haven","0900952070","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",44.55
+"New Haven","0900952070","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",34.98
+"New Haven","0900952070","2008-2012","Number","Lung Cancer Deaths",227
+"Newington","0900352140","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",46.15
+"Newington","0900352140","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",64.56
+"Newington","0900352140","2006-2010","Number","Lung Cancer Deaths",98
+"Newington","0900352140","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",44.18
+"Newington","0900352140","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",62.42
+"Newington","0900352140","2007-2011","Number","Lung Cancer Deaths",95
+"Newington","0900352140","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",45.64
+"Newington","0900352140","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",66.74
+"Newington","0900352140","2008-2012","Number","Lung Cancer Deaths",102
+"New London","0901152350","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",40.7
+"New London","0901152350","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",33.46
+"New London","0901152350","2006-2010","Number","Lung Cancer Deaths",46
+"New London","0901152350","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",40.39
+"New London","0901152350","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",34.12
+"New London","0901152350","2007-2011","Number","Lung Cancer Deaths",47
+"New London","0901152350","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",44.63
+"New London","0901152350","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",38.38
+"New London","0901152350","2008-2012","Number","Lung Cancer Deaths",53
+"New Milford","0900552630","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",44.76
+"New Milford","0900552630","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",41.19
+"New Milford","0900552630","2006-2010","Number","Lung Cancer Deaths",58
+"New Milford","0900552630","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",45.77
+"New Milford","0900552630","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",44.09
+"New Milford","0900552630","2007-2011","Number","Lung Cancer Deaths",62
+"New Milford","0900552630","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",39.16
+"New Milford","0900552630","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",40.55
+"New Milford","0900552630","2008-2012","Number","Lung Cancer Deaths",57
+"Newtown","0900152980","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",48.36
+"Newtown","0900152980","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",47.48
+"Newtown","0900152980","2006-2010","Number","Lung Cancer Deaths",64
+"Newtown","0900152980","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",46.56
+"Newtown","0900152980","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",45.53
+"Newtown","0900152980","2007-2011","Number","Lung Cancer Deaths",62
+"Newtown","0900152980","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",42.05
+"Newtown","0900152980","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",44.92
+"Newtown","0900152980","2008-2012","Number","Lung Cancer Deaths",62
+"Norfolk","0900553470","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Norfolk","0900553470","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",71.9
+"Norfolk","0900553470","2006-2010","Number","Lung Cancer Deaths",6
+"Norfolk","0900553470","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Norfolk","0900553470","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",63.53
+"Norfolk","0900553470","2007-2011","Number","Lung Cancer Deaths",5
+"Norfolk","0900553470","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Norfolk","0900553470","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",58.58
+"Norfolk","0900553470","2008-2012","Number","Lung Cancer Deaths",5
+"North Branford","0900953890","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",45.83
+"North Branford","0900953890","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",62.8
+"North Branford","0900953890","2006-2010","Number","Lung Cancer Deaths",45
+"North Branford","0900953890","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",49.59
+"North Branford","0900953890","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",68.26
+"North Branford","0900953890","2007-2011","Number","Lung Cancer Deaths",49
+"North Branford","0900953890","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",53.23
+"North Branford","0900953890","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",79.13
+"North Branford","0900953890","2008-2012","Number","Lung Cancer Deaths",57
+"North Canaan","0900554030","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"North Canaan","0900554030","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",71.56
+"North Canaan","0900554030","2006-2010","Number","Lung Cancer Deaths",12
+"North Canaan","0900554030","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",52.72
+"North Canaan","0900554030","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",90.12
+"North Canaan","0900554030","2007-2011","Number","Lung Cancer Deaths",15
+"North Canaan","0900554030","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",64.27
+"North Canaan","0900554030","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",90.61
+"North Canaan","0900554030","2008-2012","Number","Lung Cancer Deaths",15
+"North Haven","0900954870","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",38.6
+"North Haven","0900954870","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",57.68
+"North Haven","0900954870","2006-2010","Number","Lung Cancer Deaths",69
+"North Haven","0900954870","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",36.13
+"North Haven","0900954870","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",56.71
+"North Haven","0900954870","2007-2011","Number","Lung Cancer Deaths",68
+"North Haven","0900954870","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",32.93
+"North Haven","0900954870","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",53.13
+"North Haven","0900954870","2008-2012","Number","Lung Cancer Deaths",64
+"North Stonington","0901155500","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",64.86
+"North Stonington","0901155500","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",64.74
+"North Stonington","0901155500","2006-2010","Number","Lung Cancer Deaths",17
+"North Stonington","0901155500","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",63.24
+"North Stonington","0901155500","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",72.08
+"North Stonington","0901155500","2007-2011","Number","Lung Cancer Deaths",19
+"North Stonington","0901155500","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",56.94
+"North Stonington","0901155500","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",64.21
+"North Stonington","0901155500","2008-2012","Number","Lung Cancer Deaths",17
+"Norwalk","0900156060","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",37.97
+"Norwalk","0900156060","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",41.84
+"Norwalk","0900156060","2006-2010","Number","Lung Cancer Deaths",177
+"Norwalk","0900156060","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",36.03
+"Norwalk","0900156060","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",41.34
+"Norwalk","0900156060","2007-2011","Number","Lung Cancer Deaths",176
+"Norwalk","0900156060","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",37.05
+"Norwalk","0900156060","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",39.19
+"Norwalk","0900156060","2008-2012","Number","Lung Cancer Deaths",168
+"Norwich","0901156270","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",63.67
+"Norwich","0901156270","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",69.77
+"Norwich","0901156270","2006-2010","Number","Lung Cancer Deaths",139
+"Norwich","0901156270","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",60.44
+"Norwich","0901156270","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",67.86
+"Norwich","0901156270","2007-2011","Number","Lung Cancer Deaths",136
+"Norwich","0901156270","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",63.47
+"Norwich","0901156270","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",70.64
+"Norwich","0901156270","2008-2012","Number","Lung Cancer Deaths",143
+"Old Lyme","0901157040","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",42.36
+"Old Lyme","0901157040","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",68.52
+"Old Lyme","0901157040","2006-2010","Number","Lung Cancer Deaths",26
+"Old Lyme","0901157040","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",31.89
+"Old Lyme","0901157040","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",50.11
+"Old Lyme","0901157040","2007-2011","Number","Lung Cancer Deaths",19
+"Old Lyme","0901157040","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",30.3
+"Old Lyme","0901157040","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",49.98
+"Old Lyme","0901157040","2008-2012","Number","Lung Cancer Deaths",19
+"Old Saybrook","0900757320","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",35.42
+"Old Saybrook","0900757320","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",73.6
+"Old Saybrook","0900757320","2006-2010","Number","Lung Cancer Deaths",38
+"Old Saybrook","0900757320","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",40.25
+"Old Saybrook","0900757320","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",85.38
+"Old Saybrook","0900757320","2007-2011","Number","Lung Cancer Deaths",44
+"Old Saybrook","0900757320","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",37.56
+"Old Saybrook","0900757320","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",80.09
+"Old Saybrook","0900757320","2008-2012","Number","Lung Cancer Deaths",41
+"Orange","0900957600","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",40.75
+"Orange","0900957600","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",60.73
+"Orange","0900957600","2006-2010","Number","Lung Cancer Deaths",42
+"Orange","0900957600","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",43.94
+"Orange","0900957600","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",63.38
+"Orange","0900957600","2007-2011","Number","Lung Cancer Deaths",44
+"Orange","0900957600","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",41.82
+"Orange","0900957600","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",65.92
+"Orange","0900957600","2008-2012","Number","Lung Cancer Deaths",46
+"Oxford","0900958300","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",45.64
+"Oxford","0900958300","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",44.29
+"Oxford","0900958300","2006-2010","Number","Lung Cancer Deaths",27
+"Oxford","0900958300","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",60.59
+"Oxford","0900958300","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",54.91
+"Oxford","0900958300","2007-2011","Number","Lung Cancer Deaths",34
+"Oxford","0900958300","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",43.13
+"Oxford","0900958300","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",48.89
+"Oxford","0900958300","2008-2012","Number","Lung Cancer Deaths",31
+"Plainfield","0901559980","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",55.68
+"Plainfield","0901559980","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",58.5
+"Plainfield","0901559980","2006-2010","Number","Lung Cancer Deaths",45
+"Plainfield","0901559980","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",59.03
+"Plainfield","0901559980","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",61.11
+"Plainfield","0901559980","2007-2011","Number","Lung Cancer Deaths",47
+"Plainfield","0901559980","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",58.64
+"Plainfield","0901559980","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",63.6
+"Plainfield","0901559980","2008-2012","Number","Lung Cancer Deaths",49
+"Plainville","0900360120","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",52.27
+"Plainville","0900360120","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",66.95
+"Plainville","0900360120","2006-2010","Number","Lung Cancer Deaths",59
+"Plainville","0900360120","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",52.86
+"Plainville","0900360120","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",70.18
+"Plainville","0900360120","2007-2011","Number","Lung Cancer Deaths",62
+"Plainville","0900360120","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",54.8
+"Plainville","0900360120","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",68.86
+"Plainville","0900360120","2008-2012","Number","Lung Cancer Deaths",61
+"Plymouth","0900560750","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",50.08
+"Plymouth","0900560750","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",50.77
+"Plymouth","0900560750","2006-2010","Number","Lung Cancer Deaths",31
+"Plymouth","0900560750","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",44.21
+"Plymouth","0900560750","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",47.47
+"Plymouth","0900560750","2007-2011","Number","Lung Cancer Deaths",29
+"Plymouth","0900560750","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",39.48
+"Plymouth","0900560750","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",42.51
+"Plymouth","0900560750","2008-2012","Number","Lung Cancer Deaths",26
+"Pomfret","0901561030","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Pomfret","0901561030","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",42.89
+"Pomfret","0901561030","2006-2010","Number","Lung Cancer Deaths",9
+"Pomfret","0901561030","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Pomfret","0901561030","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",42.56
+"Pomfret","0901561030","2007-2011","Number","Lung Cancer Deaths",9
+"Pomfret","0901561030","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Pomfret","0901561030","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",37.66
+"Pomfret","0901561030","2008-2012","Number","Lung Cancer Deaths",8
+"Portland","0900761800","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",42.3
+"Portland","0900761800","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",53.07
+"Portland","0900761800","2006-2010","Number","Lung Cancer Deaths",25
+"Portland","0900761800","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",40.68
+"Portland","0900761800","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",50.69
+"Portland","0900761800","2007-2011","Number","Lung Cancer Deaths",24
+"Portland","0900761800","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",38.75
+"Portland","0900761800","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",50.49
+"Portland","0900761800","2008-2012","Number","Lung Cancer Deaths",24
+"Preston","0901162150","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Preston","0901162150","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",50.84
+"Preston","0901162150","2006-2010","Number","Lung Cancer Deaths",12
+"Preston","0901162150","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Preston","0901162150","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",54.98
+"Preston","0901162150","2007-2011","Number","Lung Cancer Deaths",13
+"Preston","0901162150","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Preston","0901162150","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",42.33
+"Preston","0901162150","2008-2012","Number","Lung Cancer Deaths",10
+"Prospect","0900962290","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",61.51
+"Prospect","0900962290","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",58.18
+"Prospect","0900962290","2006-2010","Number","Lung Cancer Deaths",27
+"Prospect","0900962290","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",54.46
+"Prospect","0900962290","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",57.85
+"Prospect","0900962290","2007-2011","Number","Lung Cancer Deaths",27
+"Prospect","0900962290","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",51.48
+"Prospect","0900962290","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",61.68
+"Prospect","0900962290","2008-2012","Number","Lung Cancer Deaths",29
+"Putnam","0901562710","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",36.63
+"Putnam","0901562710","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",41.82
+"Putnam","0901562710","2006-2010","Number","Lung Cancer Deaths",20
+"Putnam","0901562710","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",37.35
+"Putnam","0901562710","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",41.84
+"Putnam","0901562710","2007-2011","Number","Lung Cancer Deaths",20
+"Putnam","0901562710","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",36.24
+"Putnam","0901562710","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",43.81
+"Putnam","0901562710","2008-2012","Number","Lung Cancer Deaths",21
+"Redding","0900163480","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",34.92
+"Redding","0900163480","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",53.66
+"Redding","0900163480","2006-2010","Number","Lung Cancer Deaths",24
+"Redding","0900163480","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",31.84
+"Redding","0900163480","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",55.2
+"Redding","0900163480","2007-2011","Number","Lung Cancer Deaths",25
+"Redding","0900163480","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",35.13
+"Redding","0900163480","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",56.69
+"Redding","0900163480","2008-2012","Number","Lung Cancer Deaths",26
+"Ridgefield","0900163970","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",25.64
+"Ridgefield","0900163970","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",27.16
+"Ridgefield","0900163970","2006-2010","Number","Lung Cancer Deaths",33
+"Ridgefield","0900163970","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",27.17
+"Ridgefield","0900163970","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",29.42
+"Ridgefield","0900163970","2007-2011","Number","Lung Cancer Deaths",36
+"Ridgefield","0900163970","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",20.91
+"Ridgefield","0900163970","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",24.31
+"Ridgefield","0900163970","2008-2012","Number","Lung Cancer Deaths",30
+"Rocky Hill","0900365370","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",46.36
+"Rocky Hill","0900365370","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",63.86
+"Rocky Hill","0900365370","2006-2010","Number","Lung Cancer Deaths",62
+"Rocky Hill","0900365370","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",47.57
+"Rocky Hill","0900365370","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",63.48
+"Rocky Hill","0900365370","2007-2011","Number","Lung Cancer Deaths",62
+"Rocky Hill","0900365370","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",42.25
+"Rocky Hill","0900365370","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",60.88
+"Rocky Hill","0900365370","2008-2012","Number","Lung Cancer Deaths",60
+"Roxbury","0900565930","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Roxbury","0900565930","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",26.8
+"Roxbury","0900565930","2006-2010","Number","Lung Cancer Deaths",3
+"Roxbury","0900565930","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Roxbury","0900565930","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",34.56
+"Roxbury","0900565930","2007-2011","Number","Lung Cancer Deaths",4
+"Roxbury","0900565930","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Roxbury","0900565930","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",44.27
+"Roxbury","0900565930","2008-2012","Number","Lung Cancer Deaths",5
+"Salem","0901166210","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Salem","0901166210","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",19.48
+"Salem","0901166210","2006-2010","Number","Lung Cancer Deaths",4
+"Salem","0901166210","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Salem","0901166210","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",9.71
+"Salem","0901166210","2007-2011","Number","Lung Cancer Deaths",2
+"Salem","0901166210","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Salem","0901166210","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",19.27
+"Salem","0901166210","2008-2012","Number","Lung Cancer Deaths",4
+"Salisbury","0900566420","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Salisbury","0900566420","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",36.75
+"Salisbury","0900566420","2006-2010","Number","Lung Cancer Deaths",7
+"Salisbury","0900566420","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Salisbury","0900566420","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",47.58
+"Salisbury","0900566420","2007-2011","Number","Lung Cancer Deaths",9
+"Salisbury","0900566420","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Salisbury","0900566420","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",64.21
+"Salisbury","0900566420","2008-2012","Number","Lung Cancer Deaths",12
+"Scotland","0901567400","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Scotland","0901567400","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",67.76
+"Scotland","0901567400","2006-2010","Number","Lung Cancer Deaths",6
+"Scotland","0901567400","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Scotland","0901567400","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",82.64
+"Scotland","0901567400","2007-2011","Number","Lung Cancer Deaths",7
+"Scotland","0901567400","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Scotland","0901567400","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",34.74
+"Scotland","0901567400","2008-2012","Number","Lung Cancer Deaths",3
+"Seymour","0900967610","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",60.46
+"Seymour","0900967610","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",57.43
+"Seymour","0900967610","2006-2010","Number","Lung Cancer Deaths",47
+"Seymour","0900967610","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",58.91
+"Seymour","0900967610","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",59.6
+"Seymour","0900967610","2007-2011","Number","Lung Cancer Deaths",49
+"Seymour","0900967610","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",55.55
+"Seymour","0900967610","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",65.3
+"Seymour","0900967610","2008-2012","Number","Lung Cancer Deaths",54
+"Sharon","0900567960","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sharon","0900567960","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",77.55
+"Sharon","0900567960","2006-2010","Number","Lung Cancer Deaths",11
+"Sharon","0900567960","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sharon","0900567960","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",99.86
+"Sharon","0900567960","2007-2011","Number","Lung Cancer Deaths",14
+"Sharon","0900567960","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sharon","0900567960","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",100.72
+"Sharon","0900567960","2008-2012","Number","Lung Cancer Deaths",14
+"Shelton","0900168170","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",44.8
+"Shelton","0900168170","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",61.44
+"Shelton","0900168170","2006-2010","Number","Lung Cancer Deaths",120
+"Shelton","0900168170","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",38.71
+"Shelton","0900168170","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",55.97
+"Shelton","0900168170","2007-2011","Number","Lung Cancer Deaths",110
+"Shelton","0900168170","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",40.78
+"Shelton","0900168170","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",58.55
+"Shelton","0900168170","2008-2012","Number","Lung Cancer Deaths",116
+"Sherman","0900168310","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sherman","0900168310","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",22.2
+"Sherman","0900168310","2006-2010","Number","Lung Cancer Deaths",4
+"Sherman","0900168310","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sherman","0900168310","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",16.68
+"Sherman","0900168310","2007-2011","Number","Lung Cancer Deaths",3
+"Sherman","0900168310","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sherman","0900168310","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",27.89
+"Sherman","0900168310","2008-2012","Number","Lung Cancer Deaths",5
+"Simsbury","0900368940","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",31.89
+"Simsbury","0900368940","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",35.78
+"Simsbury","0900368940","2006-2010","Number","Lung Cancer Deaths",42
+"Simsbury","0900368940","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",32.57
+"Simsbury","0900368940","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",36.6
+"Simsbury","0900368940","2007-2011","Number","Lung Cancer Deaths",43
+"Simsbury","0900368940","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",26.92
+"Simsbury","0900368940","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",34.02
+"Simsbury","0900368940","2008-2012","Number","Lung Cancer Deaths",40
+"Somers","0901369220","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",40.66
+"Somers","0901369220","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",43.94
+"Somers","0901369220","2006-2010","Number","Lung Cancer Deaths",25
+"Somers","0901369220","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",42.84
+"Somers","0901369220","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",43.92
+"Somers","0901369220","2007-2011","Number","Lung Cancer Deaths",25
+"Somers","0901369220","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",38.14
+"Somers","0901369220","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",45.42
+"Somers","0901369220","2008-2012","Number","Lung Cancer Deaths",26
+"Southbury","0900969640","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",38.91
+"Southbury","0900969640","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",77.2
+"Southbury","0900969640","2006-2010","Number","Lung Cancer Deaths",76
+"Southbury","0900969640","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",30.32
+"Southbury","0900969640","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",64.72
+"Southbury","0900969640","2007-2011","Number","Lung Cancer Deaths",64
+"Southbury","0900969640","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",30.39
+"Southbury","0900969640","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",68.33
+"Southbury","0900969640","2008-2012","Number","Lung Cancer Deaths",68
+"Southington","0900370550","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",45.14
+"Southington","0900370550","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",61.19
+"Southington","0900370550","2006-2010","Number","Lung Cancer Deaths",130
+"Southington","0900370550","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",44.4
+"Southington","0900370550","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",61.31
+"Southington","0900370550","2007-2011","Number","Lung Cancer Deaths",131
+"Southington","0900370550","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",41.81
+"Southington","0900370550","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",56.65
+"Southington","0900370550","2008-2012","Number","Lung Cancer Deaths",122
+"South Windsor","0900371390","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",48.2
+"South Windsor","0900371390","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",53.38
+"South Windsor","0900371390","2006-2010","Number","Lung Cancer Deaths",68
+"South Windsor","0900371390","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",49.9
+"South Windsor","0900371390","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",57.08
+"South Windsor","0900371390","2007-2011","Number","Lung Cancer Deaths",73
+"South Windsor","0900371390","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",38.58
+"South Windsor","0900371390","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",48.22
+"South Windsor","0900371390","2008-2012","Number","Lung Cancer Deaths",62
+"Sprague","0901171670","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sprague","0901171670","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",40.13
+"Sprague","0901171670","2006-2010","Number","Lung Cancer Deaths",6
+"Sprague","0901171670","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sprague","0901171670","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",46.93
+"Sprague","0901171670","2007-2011","Number","Lung Cancer Deaths",7
+"Sprague","0901171670","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sprague","0901171670","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",53.64
+"Sprague","0901171670","2008-2012","Number","Lung Cancer Deaths",8
+"Stafford","0901372090","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",49.29
+"Stafford","0901372090","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",51.47
+"Stafford","0901372090","2006-2010","Number","Lung Cancer Deaths",31
+"Stafford","0901372090","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",55.69
+"Stafford","0901372090","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",53.09
+"Stafford","0901372090","2007-2011","Number","Lung Cancer Deaths",32
+"Stafford","0901372090","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",45.88
+"Stafford","0901372090","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",49.62
+"Stafford","0901372090","2008-2012","Number","Lung Cancer Deaths",30
+"Stamford","0900173070","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",36.68
+"Stamford","0900173070","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",37.55
+"Stamford","0900173070","2006-2010","Number","Lung Cancer Deaths",227
+"Stamford","0900173070","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",35.57
+"Stamford","0900173070","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",36.13
+"Stamford","0900173070","2007-2011","Number","Lung Cancer Deaths",220
+"Stamford","0900173070","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",31.99
+"Stamford","0900173070","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",35
+"Stamford","0900173070","2008-2012","Number","Lung Cancer Deaths",215
+"Sterling","0901573420","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sterling","0901573420","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",37.56
+"Sterling","0901573420","2006-2010","Number","Lung Cancer Deaths",7
+"Sterling","0901573420","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sterling","0901573420","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",47.76
+"Sterling","0901573420","2007-2011","Number","Lung Cancer Deaths",9
+"Sterling","0901573420","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Sterling","0901573420","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",36.53
+"Sterling","0901573420","2008-2012","Number","Lung Cancer Deaths",7
+"Stonington","0901173770","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",61.58
+"Stonington","0901173770","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",91.91
+"Stonington","0901173770","2006-2010","Number","Lung Cancer Deaths",85
+"Stonington","0901173770","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",57.01
+"Stonington","0901173770","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",85.49
+"Stonington","0901173770","2007-2011","Number","Lung Cancer Deaths",79
+"Stonington","0901173770","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",50.14
+"Stonington","0901173770","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",79.81
+"Stonington","0901173770","2008-2012","Number","Lung Cancer Deaths",74
+"Stratford","0900174190","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",45.18
+"Stratford","0900174190","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",61.79
+"Stratford","0900174190","2006-2010","Number","Lung Cancer Deaths",157
+"Stratford","0900174190","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",42.37
+"Stratford","0900174190","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",57.52
+"Stratford","0900174190","2007-2011","Number","Lung Cancer Deaths",147
+"Stratford","0900174190","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",41.1
+"Stratford","0900174190","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",58.29
+"Stratford","0900174190","2008-2012","Number","Lung Cancer Deaths",150
+"Suffield","0900374540","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",37.67
+"Suffield","0900374540","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",42.98
+"Suffield","0900374540","2006-2010","Number","Lung Cancer Deaths",33
+"Suffield","0900374540","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",38.45
+"Suffield","0900374540","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",42.54
+"Suffield","0900374540","2007-2011","Number","Lung Cancer Deaths",33
+"Suffield","0900374540","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",42.68
+"Suffield","0900374540","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",48.29
+"Suffield","0900374540","2008-2012","Number","Lung Cancer Deaths",38
+"Thomaston","0900575730","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",41.11
+"Thomaston","0900575730","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",38.1
+"Thomaston","0900575730","2006-2010","Number","Lung Cancer Deaths",15
+"Thomaston","0900575730","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",41.13
+"Thomaston","0900575730","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",45.79
+"Thomaston","0900575730","2007-2011","Number","Lung Cancer Deaths",18
+"Thomaston","0900575730","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",41.99
+"Thomaston","0900575730","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",48.22
+"Thomaston","0900575730","2008-2012","Number","Lung Cancer Deaths",19
+"Thompson","0901575870","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",50.61
+"Thompson","0901575870","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",55.12
+"Thompson","0901575870","2006-2010","Number","Lung Cancer Deaths",26
+"Thompson","0901575870","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",45.69
+"Thompson","0901575870","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",55.05
+"Thompson","0901575870","2007-2011","Number","Lung Cancer Deaths",26
+"Thompson","0901575870","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",42.84
+"Thompson","0901575870","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",50.73
+"Thompson","0901575870","2008-2012","Number","Lung Cancer Deaths",24
+"Tolland","0901376290","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",52.24
+"Tolland","0901376290","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",36.46
+"Tolland","0901376290","2006-2010","Number","Lung Cancer Deaths",27
+"Tolland","0901376290","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",62.21
+"Tolland","0901376290","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",41.52
+"Tolland","0901376290","2007-2011","Number","Lung Cancer Deaths",31
+"Tolland","0901376290","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",45.57
+"Tolland","0901376290","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",38.52
+"Tolland","0901376290","2008-2012","Number","Lung Cancer Deaths",29
+"Torrington","0900576570","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",39.01
+"Torrington","0900576570","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",52.16
+"Torrington","0900576570","2006-2010","Number","Lung Cancer Deaths",95
+"Torrington","0900576570","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",38.42
+"Torrington","0900576570","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",52.78
+"Torrington","0900576570","2007-2011","Number","Lung Cancer Deaths",96
+"Torrington","0900576570","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",37.52
+"Torrington","0900576570","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",52.27
+"Torrington","0900576570","2008-2012","Number","Lung Cancer Deaths",95
+"Trumbull","0900177200","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",27.9
+"Trumbull","0900177200","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",45.08
+"Trumbull","0900177200","2006-2010","Number","Lung Cancer Deaths",80
+"Trumbull","0900177200","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",29.34
+"Trumbull","0900177200","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",44.75
+"Trumbull","0900177200","2007-2011","Number","Lung Cancer Deaths",80
+"Trumbull","0900177200","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",28.84
+"Trumbull","0900177200","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",46.01
+"Trumbull","0900177200","2008-2012","Number","Lung Cancer Deaths",83
+"Union","0901377830","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Union","0901377830","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",23.12
+"Union","0901377830","2006-2010","Number","Lung Cancer Deaths",1
+"Union","0901377830","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Union","0901377830","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",20.2
+"Union","0901377830","2007-2011","Number","Lung Cancer Deaths",1
+"Union","0901377830","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Union","0901377830","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",46.89
+"Union","0901377830","2008-2012","Number","Lung Cancer Deaths",2
+"Vernon","0901378250","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",42.84
+"Vernon","0901378250","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",56.15
+"Vernon","0901378250","2006-2010","Number","Lung Cancer Deaths",82
+"Vernon","0901378250","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",43.58
+"Vernon","0901378250","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",58.91
+"Vernon","0901378250","2007-2011","Number","Lung Cancer Deaths",86
+"Vernon","0901378250","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",41.41
+"Vernon","0901378250","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",53.45
+"Vernon","0901378250","2008-2012","Number","Lung Cancer Deaths",78
+"Voluntown","0901178600","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Voluntown","0901178600","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",46.1
+"Voluntown","0901178600","2006-2010","Number","Lung Cancer Deaths",6
+"Voluntown","0901178600","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Voluntown","0901178600","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",69.15
+"Voluntown","0901178600","2007-2011","Number","Lung Cancer Deaths",9
+"Voluntown","0901178600","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Voluntown","0901178600","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",53.8
+"Voluntown","0901178600","2008-2012","Number","Lung Cancer Deaths",7
+"Wallingford","0900978740","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",41.35
+"Wallingford","0900978740","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",50.02
+"Wallingford","0900978740","2006-2010","Number","Lung Cancer Deaths",112
+"Wallingford","0900978740","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",40.41
+"Wallingford","0900978740","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",51.19
+"Wallingford","0900978740","2007-2011","Number","Lung Cancer Deaths",115
+"Wallingford","0900978740","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",37.41
+"Wallingford","0900978740","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",49.63
+"Wallingford","0900978740","2008-2012","Number","Lung Cancer Deaths",112
+"Warren","0900579510","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Warren","0900579510","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",40.54
+"Warren","0900579510","2006-2010","Number","Lung Cancer Deaths",3
+"Warren","0900579510","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Warren","0900579510","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",26.13
+"Warren","0900579510","2007-2011","Number","Lung Cancer Deaths",2
+"Warren","0900579510","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Warren","0900579510","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",13.7
+"Warren","0900579510","2008-2012","Number","Lung Cancer Deaths",1
+"Washington","0900579720","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Washington","0900579720","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",33.13
+"Washington","0900579720","2006-2010","Number","Lung Cancer Deaths",6
+"Washington","0900579720","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Washington","0900579720","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",33.46
+"Washington","0900579720","2007-2011","Number","Lung Cancer Deaths",6
+"Washington","0900579720","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Washington","0900579720","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",27.98
+"Washington","0900579720","2008-2012","Number","Lung Cancer Deaths",5
+"Waterbury","0900980070","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",56.8
+"Waterbury","0900980070","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",62.03
+"Waterbury","0900980070","2006-2010","Number","Lung Cancer Deaths",341
+"Waterbury","0900980070","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",54.21
+"Waterbury","0900980070","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",57.6
+"Waterbury","0900980070","2007-2011","Number","Lung Cancer Deaths",317
+"Waterbury","0900980070","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",50.72
+"Waterbury","0900980070","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",54.19
+"Waterbury","0900980070","2008-2012","Number","Lung Cancer Deaths",299
+"Waterford","0901180280","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",44.53
+"Waterford","0901180280","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",68.97
+"Waterford","0901180280","2006-2010","Number","Lung Cancer Deaths",67
+"Waterford","0901180280","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",43.47
+"Waterford","0901180280","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",69.92
+"Waterford","0901180280","2007-2011","Number","Lung Cancer Deaths",68
+"Waterford","0901180280","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",47.87
+"Waterford","0901180280","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",74.81
+"Waterford","0901180280","2008-2012","Number","Lung Cancer Deaths",73
+"Watertown","0900580490","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",43.99
+"Watertown","0900580490","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",58.61
+"Watertown","0900580490","2006-2010","Number","Lung Cancer Deaths",66
+"Watertown","0900580490","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",45.38
+"Watertown","0900580490","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",61.33
+"Watertown","0900580490","2007-2011","Number","Lung Cancer Deaths",69
+"Watertown","0900580490","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",46.92
+"Watertown","0900580490","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",62.24
+"Watertown","0900580490","2008-2012","Number","Lung Cancer Deaths",70
+"Westbrook","0900781680","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",49.38
+"Westbrook","0900781680","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",72.89
+"Westbrook","0900781680","2006-2010","Number","Lung Cancer Deaths",25
+"Westbrook","0900781680","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",36.87
+"Westbrook","0900781680","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",58.05
+"Westbrook","0900781680","2007-2011","Number","Lung Cancer Deaths",20
+"Westbrook","0900781680","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",36.84
+"Westbrook","0900781680","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",57.66
+"Westbrook","0900781680","2008-2012","Number","Lung Cancer Deaths",20
+"West Hartford","0900382590","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",34.48
+"West Hartford","0900382590","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",50.24
+"West Hartford","0900382590","2006-2010","Number","Lung Cancer Deaths",158
+"West Hartford","0900382590","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",32.41
+"West Hartford","0900382590","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",44.72
+"West Hartford","0900382590","2007-2011","Number","Lung Cancer Deaths",141
+"West Hartford","0900382590","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",34.94
+"West Hartford","0900382590","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",48.36
+"West Hartford","0900382590","2008-2012","Number","Lung Cancer Deaths",153
+"West Haven","0900982870","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",64.39
+"West Haven","0900982870","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",70.82
+"West Haven","0900982870","2006-2010","Number","Lung Cancer Deaths",195
+"West Haven","0900982870","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",65.7
+"West Haven","0900982870","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",70.23
+"West Haven","0900982870","2007-2011","Number","Lung Cancer Deaths",194
+"West Haven","0900982870","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",60.85
+"West Haven","0900982870","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",64.79
+"West Haven","0900982870","2008-2012","Number","Lung Cancer Deaths",180
+"Weston","0900183430","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Weston","0900183430","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",25.77
+"Weston","0900183430","2006-2010","Number","Lung Cancer Deaths",13
+"Weston","0900183430","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",37.37
+"Weston","0900183430","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",33.52
+"Weston","0900183430","2007-2011","Number","Lung Cancer Deaths",17
+"Weston","0900183430","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",-6666
+"Weston","0900183430","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",25.5
+"Weston","0900183430","2008-2012","Number","Lung Cancer Deaths",13
+"Westport","0900183500","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",27.67
+"Westport","0900183500","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",35.24
+"Westport","0900183500","2006-2010","Number","Lung Cancer Deaths",46
+"Westport","0900183500","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",26.98
+"Westport","0900183500","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",34.29
+"Westport","0900183500","2007-2011","Number","Lung Cancer Deaths",45
+"Westport","0900183500","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",24.15
+"Westport","0900183500","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",31.77
+"Westport","0900183500","2008-2012","Number","Lung Cancer Deaths",42
+"Wethersfield","0900384900","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",46.88
+"Wethersfield","0900384900","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",77.41
+"Wethersfield","0900384900","2006-2010","Number","Lung Cancer Deaths",103
+"Wethersfield","0900384900","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",45.4
+"Wethersfield","0900384900","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",76.57
+"Wethersfield","0900384900","2007-2011","Number","Lung Cancer Deaths",102
+"Wethersfield","0900384900","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",46.46
+"Wethersfield","0900384900","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",80.24
+"Wethersfield","0900384900","2008-2012","Number","Lung Cancer Deaths",107
+"Willington","0901385950","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",75.86
+"Willington","0901385950","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",49.44
+"Willington","0901385950","2006-2010","Number","Lung Cancer Deaths",15
+"Willington","0901385950","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",81.56
+"Willington","0901385950","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",56.01
+"Willington","0901385950","2007-2011","Number","Lung Cancer Deaths",17
+"Willington","0901385950","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",56.52
+"Willington","0901385950","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",49.64
+"Willington","0901385950","2008-2012","Number","Lung Cancer Deaths",15
+"Wilton","0900186370","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",16.22
+"Wilton","0900186370","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",17.9
+"Wilton","0900186370","2006-2010","Number","Lung Cancer Deaths",16
+"Wilton","0900186370","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",18.05
+"Wilton","0900186370","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",17.8
+"Wilton","0900186370","2007-2011","Number","Lung Cancer Deaths",16
+"Wilton","0900186370","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",22.09
+"Wilton","0900186370","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",22.11
+"Wilton","0900186370","2008-2012","Number","Lung Cancer Deaths",20
+"Winchester","0900586440","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",45.68
+"Winchester","0900586440","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",53.47
+"Winchester","0900586440","2006-2010","Number","Lung Cancer Deaths",30
+"Winchester","0900586440","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",40.73
+"Winchester","0900586440","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",51.71
+"Winchester","0900586440","2007-2011","Number","Lung Cancer Deaths",29
+"Winchester","0900586440","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",43.15
+"Winchester","0900586440","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",56.99
+"Winchester","0900586440","2008-2012","Number","Lung Cancer Deaths",32
+"Windham","0901586790","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",54.64
+"Windham","0901586790","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",49.53
+"Windham","0901586790","2006-2010","Number","Lung Cancer Deaths",62
+"Windham","0901586790","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",47.26
+"Windham","0901586790","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",43.77
+"Windham","0901586790","2007-2011","Number","Lung Cancer Deaths",55
+"Windham","0901586790","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",49.51
+"Windham","0901586790","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",45.9
+"Windham","0901586790","2008-2012","Number","Lung Cancer Deaths",58
+"Windsor","0900387000","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",44.02
+"Windsor","0900387000","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",51.82
+"Windsor","0900387000","2006-2010","Number","Lung Cancer Deaths",75
+"Windsor","0900387000","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",46.04
+"Windsor","0900387000","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",53.86
+"Windsor","0900387000","2007-2011","Number","Lung Cancer Deaths",78
+"Windsor","0900387000","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",43.72
+"Windsor","0900387000","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",55.08
+"Windsor","0900387000","2008-2012","Number","Lung Cancer Deaths",80
+"Windsor Locks","0900387070","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",36.31
+"Windsor Locks","0900387070","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",46.7
+"Windsor Locks","0900387070","2006-2010","Number","Lung Cancer Deaths",29
+"Windsor Locks","0900387070","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",39.25
+"Windsor Locks","0900387070","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",52.94
+"Windsor Locks","0900387070","2007-2011","Number","Lung Cancer Deaths",33
+"Windsor Locks","0900387070","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",45.21
+"Windsor Locks","0900387070","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",59.21
+"Windsor Locks","0900387070","2008-2012","Number","Lung Cancer Deaths",37
+"Wolcott","0900987560","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",64.03
+"Wolcott","0900987560","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",76.61
+"Wolcott","0900987560","2006-2010","Number","Lung Cancer Deaths",63
+"Wolcott","0900987560","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",54.23
+"Wolcott","0900987560","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",67.75
+"Wolcott","0900987560","2007-2011","Number","Lung Cancer Deaths",56
+"Wolcott","0900987560","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",61.47
+"Wolcott","0900987560","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",75.55
+"Wolcott","0900987560","2008-2012","Number","Lung Cancer Deaths",63
+"Woodbridge","0900987700","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",51
+"Woodbridge","0900987700","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",75.5
+"Woodbridge","0900987700","2006-2010","Number","Lung Cancer Deaths",34
+"Woodbridge","0900987700","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",42.75
+"Woodbridge","0900987700","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",75.62
+"Woodbridge","0900987700","2007-2011","Number","Lung Cancer Deaths",34
+"Woodbridge","0900987700","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",35.75
+"Woodbridge","0900987700","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",62.3
+"Woodbridge","0900987700","2008-2012","Number","Lung Cancer Deaths",28
+"Woodbury","0900587910","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",32.1
+"Woodbury","0900587910","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",42.39
+"Woodbury","0900587910","2006-2010","Number","Lung Cancer Deaths",21
+"Woodbury","0900587910","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",34.99
+"Woodbury","0900587910","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",48.35
+"Woodbury","0900587910","2007-2011","Number","Lung Cancer Deaths",24
+"Woodbury","0900587910","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",30.63
+"Woodbury","0900587910","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",42.15
+"Woodbury","0900587910","2008-2012","Number","Lung Cancer Deaths",21
+"Woodstock","0901588190","2006-2010","AAMR (per 100,000)","Lung Cancer Deaths",32.62
+"Woodstock","0901588190","2006-2010","Crude Rate (per 100,000)","Lung Cancer Deaths",38.01
+"Woodstock","0901588190","2006-2010","Number","Lung Cancer Deaths",15
+"Woodstock","0901588190","2007-2011","AAMR (per 100,000)","Lung Cancer Deaths",37.5
+"Woodstock","0901588190","2007-2011","Crude Rate (per 100,000)","Lung Cancer Deaths",42.92
+"Woodstock","0901588190","2007-2011","Number","Lung Cancer Deaths",17
+"Woodstock","0901588190","2008-2012","AAMR (per 100,000)","Lung Cancer Deaths",35.6
+"Woodstock","0901588190","2008-2012","Crude Rate (per 100,000)","Lung Cancer Deaths",40.17
+"Woodstock","0901588190","2008-2012","Number","Lung Cancer Deaths",16
