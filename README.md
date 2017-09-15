@@ -1,7 +1,5 @@
 Lung Cancer Deaths
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/lung-cancer-deaths.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/lung-cancer-deaths)
-
 Lung Cancer Deaths reports the number, crude rate, and age-adjusted mortality rate (AAMR) of deaths due to lung cancer.
 
 Data Source: <http://www.ct.gov/dph/cwp/view.asp?a=3132&q=521462>
