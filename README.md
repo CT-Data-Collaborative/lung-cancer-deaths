@@ -2,7 +2,7 @@ Lung Cancer Deaths
 
 Lung Cancer Deaths reports the number, crude rate, and age-adjusted mortality rate (AAMR) of deaths due to lung cancer.
 
-Data Source: <http://www.ct.gov/dph/cwp/view.asp?a=3132&q=521462>
+Data Source: <https://portal.ct.gov/DPH/Health-Information-Systems--Reporting/Mortality/Mortality-Tables--2000-to-2014-with-74-Cause-of-Death-Codes>
 
 ## License MIT
 

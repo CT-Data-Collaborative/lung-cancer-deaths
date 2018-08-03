@@ -21,7 +21,7 @@
   }],
   "contributor": [],
   "resources": [{
-    "path": "data/lung-cancer-deaths_2008-2012.csv",
+    "path": "data/lung-cancer-deaths_2010-2014.csv",
     "format": "csv",
     "schema": {
       "fields": [{
@@ -64,7 +64,7 @@
       }
     }
   ],
-  "last_modified": "09/11/2017",
+  "last_modified": "08/03/2018",
   "ckan_extras": {
     "full_description": {
       "ckan_name": "Full Description",
@@ -108,12 +108,12 @@
     },
     "numerator": {
       "ckan_name": "Numerator",
-      "value": "For Crude Rate, number of lung cancer deaths, as reported by source. For AAMR, calculations are provided by Publisher and are more complex.",
+      "value": "For Crude Rate, number of lung cancer deaths, as reported by source. For AAMR, calculations are provided by the publisher and are more complex.",
       "type": "string"
     },
     "denominator": {
       "ckan_name": "Denominator",
-      "value": "For Crude Rate, total population. For AAMR, calculations are provided by Publisher and are more complex.",
+      "value": "For Crude Rate, total population. For AAMR, calculations are provided by the publisher and are more complex.",
       "type": "string"
     },     
     "geography": {
@@ -129,12 +129,12 @@
     },
     "years_in_catalog": {
       "ckan_name": "Years in Catalog",
-      "value": ["2006-2010", "2007-2011", "2008-2012"],
+      "value": ["2006-2010", "2007-2011", "2008-2012", "2010-2014"],
       "type": "array"
     },
     "latest_year": {
       "ckan_name": "Latest Year Available",
-      "value": "2008-2012",
+      "value": "2010-2014",
       "type": "string"
     },
     "disabled_views": {
@@ -159,7 +159,7 @@
       "ckan_name": "Default",
 			"value": {
 			  "Town": "Connecticut", 
-		 		"Year": ["2008-2012"],
+		 		"Year": ["2010-2014"],
 				"Measure Type": "Number",
 		 		"Variable": "Lung Cancer Deaths"
 			},
@@ -208,7 +208,21 @@
         "number type": "int",
         "value": 227
       } 
-    }    
+    },     
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Waterford",
+        "Year": "2010-2014",
+		 		"Variable": "Lung Cancer Deaths",
+        "Measure Type": "AAMR (per 100,000)"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "float",
+        "value": 47.82
+      } 
+    }     
   ],
   "dimension_groups": [
     {
